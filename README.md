@@ -8,7 +8,7 @@ A fully AI-powered event planning assistant built with **Google Gemini 2.0 Flash
 
 ## 🌐 Live Demo
 
-👉 **[Try it Live](https://YOUR-USERNAME.github.io/celebrate-ai)**
+👉 **[Try it Live](https://mihir0804.github.io/celebrate_ai)**
 
 ---
 
